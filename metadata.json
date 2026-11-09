@@ -1,0 +1,6 @@
+{
+  "name": "StickMate - Floating AI Stick Figure Companion",
+  "description": "An intelligent, expressive stick figure AI that floats as an overlay widget on your screen, with voice command capabilities, customizable body and accessories, and evolving personality traits.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
